@@ -1,0 +1,36 @@
+Title: Godzilla: The Monster's Rampage
+
+The city is in chaos as Godzilla rampages through the streets. You are a reporter on the scene, trying to get as close as possible to get the scoop of a lifetime.
+
+Branch 1:
+
+Go closer to Godzilla to get a better view
+You inch closer to Godzilla, getting a better view of the monster. But suddenly, he stops and looks directly at you.
+Branch 1.1:
+
+Run away as fast as you can
+You turn and run as fast as you can, dodging debris and buildings. But you soon realize that Godzilla is right behind you.
+Branch 1.1.1:
+
+Keep running
+You keep running, your heart pounding in your chest. You don't know how much longer you can keep this up.
+Branch 1.1.2:
+
+Stop and try to reason with Godzilla
+You stop and turn to face Godzilla, trying to reason with the monster. But it's no use, as Godzilla attacks you with his powerful tail.
+Branch 1.2:
+
+Stand your ground and try to interview Godzilla
+You stand your ground, microphone in hand, and try to interview Godzilla. But the monster is not interested in talking and attacks you with his powerful breath.
+Branch 2:
+
+Stay back and film from a safe distance
+You stay back and film from a safe distance, capturing the destruction as Godzilla rampages through the city. But suddenly, the military arrives and opens fire on the monster.
+Branch 2.1:
+
+Continue filming
+You continue filming, capturing the intense battle between Godzilla and the military. The outcome is uncertain, but one thing is for sure: this will be the story of a lifetime.
+Branch 2.2:
+
+Try to evacuate the city
+You turn your attention to the people of the city, trying to help them evacuate. It's a difficult and dangerous task, but you know it's the right thing to do.
